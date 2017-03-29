@@ -9,10 +9,10 @@ This demonstration enhances the existing BPM Dynamic Event Framework (DEF) solut
 Software Prerequisites
 =====================
 To use the Analytics in your BPM deployment environment, review the product requirements to ensure that its dependencies are at the required level.
-*	JRE
-  * IBM JRE 7 (Java 7)
 * Elastic Search & Kibana
   * Version 5.1.x
+* JRE
+  * IBM JRE 7 (Java 7)
 
 Version(s) Supported
 ========================
