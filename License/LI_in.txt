@@ -1,0 +1,18 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Garansi (Z125-5589-05) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM Business Process Manager Analytics (Sample Code)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Komponen Sumber dan Material Contoh
+
+Program dapat mencakup beberapa komponen dalam bentuk kode sumber ("Komponen Sumber") dan beberapa material lain yang dikenal sebagai Material Contoh. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen-komponen Sumber dan Material Contoh untuk penggunaan internal hanya dengan ketentuan bahwa penggunaan tersebut dalam batas-batas hak lisensi berdasarkan Perjanjian ini, akan tetapi dengan ketentuan bahwa Pemegang Lisensi tidak dapat mengubah atau menghapus setiap informasi atau pemberitahuan tentang hak cipta yang terdapat dalam Komponen-komponen Sumber atau Material Contoh.  IBM memberikan Komponen-komponen Sumber dan Material Sampel tanpa adanya kewajiban dukungan dan "APA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+L/N:  L-GEJZ-AKMP7T
+D/N:  L-GEJZ-AKMP7T
+P/N:  L-GEJZ-AKMP7T
+
+

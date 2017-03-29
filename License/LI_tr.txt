@@ -1,0 +1,18 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Garanti Verilmeyen Programlar Ýçin Uluslararasý Lisans Sözleþmesi (Z125-5589-05) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM Business Process Manager Analytics (Sample Code)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Bu Program, kaynak kodu biçimindeki bazý bileþenleri ("Kaynak Bileþenler") ve Örnek Malzemeler olarak tanýmlanan diðer malzemeleri içerebilir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri ancak Kaynak Bileþenleri ve Örnek Malzemeleri kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içinde kalmasý ve ancak Kaynak Bileþenlerde ya da Örnek Malzemelerde içerilen hiçbir telif hakký bilgisini veya bildirimini deðiþtirmemek veya silmemek koþuluyla dahili olarak kullanmak amacýyla kopyalayabilir ve kullanabilir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri, destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALE EDÝLMEYECEÐÝNE DAÝR GARANTÝLER ÝLE TÝCARÝLÝÐE VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DA DAHÝL OLMAK, ANCAK TÜMÜ BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" ESASIYLA SAÐLAR.
+
+L/N:  L-GEJZ-AKMP7T
+D/N:  L-GEJZ-AKMP7T
+P/N:  L-GEJZ-AKMP7T
+
+

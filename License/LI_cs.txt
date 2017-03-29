@@ -1,0 +1,18 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (Z125-5589-05).
+
+Název Programu (Èíslo Programu):
+IBM Business Process Manager Analytics (Sample Code)
+
+Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program mùže obsahovat nìkteré komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály oznaèované jako Vzorové materiály. Držitel licence smí kopírovat a mìnit Komponenty ve zdrojovém kódu a Vzorové materiály pouze pro interní užívání a pouze pod podmínkou, že toto užívání bude v souladu s omezeními licenèních oprávnìní stanovenými touto Smlouvou. Držitel licence však nesmí mìnit ani odstraòovat žádné informace nebo výhrady týkající se autorských práv obsažené v Komponentách ve zdrojovém kódu nebo ve Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+L/N:  L-GEJZ-AKMP7T
+D/N:  L-GEJZ-AKMP7T
+P/N:  L-GEJZ-AKMP7T
+
+

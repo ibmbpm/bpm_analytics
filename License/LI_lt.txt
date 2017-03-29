@@ -1,0 +1,18 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal ðias Licencijos informacijos sàlygas, kurios papildo Programos licencijos sàlygas, dël kuriø susitarë Klientas ir IBM. Jei Klientas anksèiau nëra sutikæs su Programai taikomomis licencijos sàlygomis, taikoma Programø kurioms neteikiama garantija tarptautinë licencinë sutartis (Z125-5589-05).
+
+Programos pavadinimas (Programos numeris):
+IBM Business Process Manager Analytics (Sample Code)
+
+Ðios standartinës sàlygos taikomos Licenciato Programos naudojimui.
+
+Ðaltinio komponentai ir pavyzdinë medþiaga
+
+Á Programà gali bûti átraukti keli komponentai iðeitinio kodo forma („Ðaltinio komponentai“) ir kita medþiaga, apibrëþta kaip Pavyzdinë medþiaga. Licenciatas gali kopijuoti ir modifikuoti Ðaltinio komponentus ir Pavyzdinæ medþiagà tik naudoti viduje, jei toks naudojimas nepaþeidþia ðios Sutarties licencijos teisiø ir jei Licenciatas nekeièia ar nenaikina jokios Ðaltinio komponentuose ir Pavyzdinëje medþiagoje esanèios autoriaus teisiø informacijos ar praneðimø. IBM pateikia Ðaltinio komponentus ir Pavyzdinæ medþiagà be palaikymo ásipareigojimo ir TOKIÀ, KOKIA YRA, NESUTEIKIANT JOKIØ AIÐKIAI NURODYTØ AR NENURODYTØ GARANTIJØ, ÁSKAITANT NUOSAVYBËS TEISËS, NEPAÞEIDÞIAMUMO AR NEÁSIKIÐIMO GARANTIJAS IR NENURODYTAS TINKAMUMO PREKIAUTI IR TAM TIKRAM TIKSLUI GARANTIJAS IR SÀLYGAS.
+
+L/N:  L-GEJZ-AKMP7T
+D/N:  L-GEJZ-AKMP7T
+P/N:  L-GEJZ-AKMP7T
+
+
