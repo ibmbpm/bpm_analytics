@@ -4,6 +4,7 @@ Introduction
 The key value of IBM Business Process Manager (BPM) is in streamlining custom enterprise business processes to better optimize service and cost.  It does this namely through 1) custom process applications to manage work, and 2) process analytics for workers, managers, and analysts to assist their decision making in the execution and management of work and the design of processes.  This technology demonstration aims to enhance BPM capabilities for (2) process analytics, with modern technologies which can excel in the era of big data and analytics, taking advantage of the full potential of the rich information into business operations afforded by custom process apps executing in BPM.   
 
 The BPM Analytics aims to enhance BPM for two scenarios: 1) BPM Analytics - providing enhanced process analytics features directly within the BPM offering targeting BPM user roles, and 2) 3rd Party Analytics - providing enhanced features to publish process data to external data and analytics solutions provided by IBM, customers, and partners.  
+
 This demonstration enhances the existing BPM Dynamic Event Framework (DEF) solution to publish business events in JSON message format, after a serial of the reformat and aggregation, store the query-optimized documents at the Elastic Search, then finally the documents can be fed in the dashboard at the Kibana.
 
 Software Prerequisites
