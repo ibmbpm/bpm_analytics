@@ -5,12 +5,12 @@ The key value of IBM Business Process Manager (BPM) is in streamlining custom en
 
 The BPM Analytics aims to enhance BPM for two scenarios: 1) BPM Analytics - providing enhanced process analytics features directly within the BPM offering targeting BPM user roles, and 2) 3rd Party Analytics - providing enhanced features to publish process data to external data and analytics solutions provided by IBM, customers, and partners.  
 
-This demonstration enhances the existing BPM Dynamic Event Framework (DEF) solution to publish business events in JSON message format, after a serial of the reformat and aggregation, store the query-optimized documents at the Elastic Search, then finally the documents can be fed in the dashboard at the Kibana.
+This demonstration enhances the existing BPM Dynamic Event Framework (DEF) solution to publish business events in JSON message format, after a serial of the reformat and aggregation, store the query-optimized documents at the Elasticsearch, then finally the documents can be fed in the dashboard at the Kibana.
 
 Software Prerequisites
 =====================
 To use the Analytics in your BPM deployment environment, review the product requirements to ensure that its dependencies are at the required level.
-* Elastic Search & Kibana
+* Elasticsearch & Kibana
   * Version 5.1.x
 * JRE
   * IBM JRE 7 (Java 7)
