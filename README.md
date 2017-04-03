@@ -12,6 +12,7 @@ Software Prerequisites
 To use the Analytics in your BPM deployment environment, review the product requirements to ensure that its dependencies are at the required level.
 * Elasticsearch & Kibana
   * Version 5.1.x
+  * By default, Elasticsearch and Kibana have no security.  Before using this solution in a production settings, one will need to subscribe to Elastic X-Pack (https://www.elastic.co/downloads/x-pack).
 * JRE
   * IBM JRE 7 (Java 7)
 
