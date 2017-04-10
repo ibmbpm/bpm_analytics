@@ -22,10 +22,13 @@ IBM Business Process Manager V8.5.7.0 CF201703
 
 Download
 =====================
-Click on the "Clone or download" button at the top of this window to download a .zip containing the three standalone utilities:
+### Stable build
+Click on the "release" link at the top of this window to find a stable release of the utilities:
 *	BPMEventEmitter
 *	EventSummayAgent
 *	BPMDashboardKibana
+### Development build
+Click on the "Clone or download" button at the top of this window to download a .zip containing the three standalone utilities.
 
 Usage Instructions
 =====================
