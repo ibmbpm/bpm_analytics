@@ -11,14 +11,15 @@ Software Prerequisites
 =====================
 To use the Analytics in your BPM deployment environment, review the product requirements to ensure that its dependencies are at the required level.
 * Elasticsearch & Kibana
-  * Version 5.1.x
+  * Version 5.1.x 
+  * Version 5.4.x
   * By default, Elasticsearch and Kibana have no security.  To use this with any real business data, one will need to subscribe to Elastic X-Pack (https://www.elastic.co/downloads/x-pack) to enable security.
 * JRE
   * IBM JRE 7 (Java 7)
 
 Version(s) Supported
 ========================
-IBM Business Process Manager V8.5.7.0 CF201703
+IBM Business Process Manager V8.5.7.0 CF201706
 
 Download
 =====================
