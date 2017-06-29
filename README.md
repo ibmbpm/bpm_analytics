@@ -15,7 +15,7 @@ To use the Analytics in your BPM deployment environment, review the product requ
   * Version 5.4.x
   * By default, Elasticsearch and Kibana have no security.  To use this with any real business data, one will need to subscribe to Elastic X-Pack (https://www.elastic.co/downloads/x-pack) to enable security.
 * JRE
-  * IBM JRE 7 (Java 7)
+  * IBM JRE 7 (Java 7) - both the EventSummaryAgent and BPMEventEmitter need use the Java 7, it means BPM's JRE should be Java 7 also
 
 Version(s) Supported
 ========================
