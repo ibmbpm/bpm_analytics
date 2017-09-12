@@ -1,4 +1,4 @@
-# Technology Demonstration: IBM Business Process Manager Analytics
+# Technology Preview: IBM Business Process Manager Analytics
 Introduction
 =============
 The key value of IBM Business Process Manager (BPM) is in streamlining custom enterprise business processes to better optimize service and cost.  It does this namely through 1) custom process applications to manage work, and 2) process analytics for workers, managers, and analysts to assist their decision making in the execution and management of work and the design of processes.  This technology demonstration aims to enhance BPM capabilities for (2) process analytics, with modern technologies which can excel in the era of big data and analytics, taking advantage of the full potential of the rich information into business operations afforded by custom process apps executing in BPM.   
@@ -13,19 +13,19 @@ To use the Analytics in your BPM deployment environment, review the product requ
 * Elasticsearch & Kibana
   * Version 5.1.x 
   * Version 5.4.x
+  * Version 5.5.x
   * By default, Elasticsearch and Kibana have no security.  To use this with any real business data, one will need to subscribe to Elastic X-Pack (https://www.elastic.co/downloads/x-pack) to enable security.
 * JRE
-  * IBM JRE 7 (Java 7) - both the EventSummaryAgent and BPMEventEmitter need use the Java 7, it means BPM's JRE should be Java 7 also
+  * IBM JRE 7 (Java 7) or IBM JRE 8 (Java 8) - EventSummaryAgent and BPMEventEmitter is compatible with the Java 7 and Java 8, but since the BPM v8600 only support Java 8, the Java 8 is recommended
 
 Version(s) Supported
 ========================
-IBM Business Process Manager V8.5.7.0 CF201706
+IBM Business Process Manager V8.6.0.0
 
 Download
 =====================
 ### Stable build
 Click on the "release" link at the top of this window to find a stable release of the utilities:
-*	BPMEventEmitter
 *	EventSummayAgent
 *	BPMDashboardKibana
 ### Development build
