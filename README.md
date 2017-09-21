@@ -17,6 +17,11 @@ To use the Analytics in your BPM deployment environment, review the product requ
   * By default, Elasticsearch and Kibana have no security.  To use this with any real business data, one will need to subscribe to Elastic X-Pack (https://www.elastic.co/downloads/x-pack) to enable security.
 * JRE
   * IBM JRE 7 (Java 7) or IBM JRE 8 (Java 8) - EventSummaryAgent is compatible with the Java 7 and Java 8, but since the BPM v8600 only support Java 8, the Java 8 is recommended
+* Kafka (optional)
+  * 0.10.1.0
+* Object Store (optional)
+  * openstack-swift API with temp auth v1.0
+  * openstack-swift API with keystone auth v3.0
 
 Version(s) Supported
 ========================
