@@ -25,7 +25,7 @@ To use the Analytics in your BPM deployment environment, review the product requ
 
 Version(s) Supported
 ========================
-IBM Business Process Manager V8.6.0.0 CF201712
+IBM Business Process Manager V8.6.0 CF201712
 
 Download
 =====================
